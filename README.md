@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MBSharqi
 - 👀 I’m interested in programing ..
-- 🌱 I’m currently learning html , css and more ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python 
+- 📫 How to reach me mbssajjath@gmai.com 
 
 <!---
 MBSharqi/MBSharqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
