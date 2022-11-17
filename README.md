@@ -1,3 +1,5 @@
+![logo](https://github.com/MBSharqi/MBSharqi/blob/main/1666699629893.jpeg)
+
 <h1 align="center">Hi 👋, I'm Sharqi Sajjath</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
