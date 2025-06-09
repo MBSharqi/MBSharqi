@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mbssajjath@gmail.com**
 
-- 🌱 I’m currently learning **Python, HTML5, CSS3 and JavaScript**
+- 🌱 I’m currently learning **MERN Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
